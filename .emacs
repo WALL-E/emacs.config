@@ -16,3 +16,6 @@
 
 ;;no menu
 (menu-bar-mode -1)
+
+;;no tool
+(tool-bar-mode -1)
