@@ -22,3 +22,11 @@
 
 ;; 去掉滚动条
 (set-scroll-bar-mode nil)
+
+
+;;关闭开启画面
+(setq inhibit-startup-message t) 
+(setq indent-tabs-mode t)
+
+;;不产生备份文件
+(setq make-backup-files nil)
