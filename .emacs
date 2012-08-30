@@ -19,3 +19,6 @@
 
 ;;no tool
 (tool-bar-mode -1)
+
+;; 去掉滚动条
+(set-scroll-bar-mode nil)
